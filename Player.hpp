@@ -29,13 +29,3 @@ public:
 };
 
 #endif
-FooterIndiana University
-© 2024 GitHub, Inc.
-Footer navigation
-Help
-Support
-API
-Training
-Blog
-About
-GitH
