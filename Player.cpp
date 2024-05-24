@@ -45,4 +45,3 @@ void Player::addPoints() { //add 15, 30, 45
 void Player::addSetScore() {
     setScore++;
 }
-FooterIndiana University
